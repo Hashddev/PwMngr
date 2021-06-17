@@ -11,3 +11,4 @@ Before use make sure to go into signInInfo.py and in the quotes, putting an MD5 
 This will be used to sign-in to your password manager.
 This is a very amateur build, but will be improved in the future.
 Please make sure to check out the credits as the Main idea was not entirely mine.
+Run pwmngr.py after inputing your MD5 Hashed userName and passWord and in the sign-in use your unhashed userName and passWord.
